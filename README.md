@@ -1,2 +1,19 @@
 # PRODIGY_WD_01
- "Portfolio Website created for Prodigy InfoTech Internship"
+
+🎯 **Portfolio Website** created as part of my Web Development Internship at **Prodigy InfoTech**.
+
+🔗 **Live Website:** [Click here to view](https://bhumitanwar123.github.io/PRODIGY_WD_01/)
+
+## 🛠️ Tech Stack
+- HTML
+- CSS
+- JavaScript
+
+## ✨ Features
+- Responsive layout
+- Projects showcase
+- Skill section
+- Contact info
+- Deployed via GitHub Pages
+
+
